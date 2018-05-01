@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "gleaming-motif-202818",
+  "private_key_id": "5fab7e2b09fd10e702835a53e568f521f4c585e7",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCr7iA2IpNfRAVe\n1uoMmisQ67dn+rhOX5PkcpFWwg2WtjZFJZvrxFSaaRsQxOkgpdX2KPG4f5iNUO/I\nV88R84bHq7tBoM+85fBrMctJt42OnYrpGhVOVV1YaNmHOkYuDNhdAk526b7xJV3J\nIafJZgx5DVkOj6MSYAWBWRRn1yOZcCmyxszSdtl8Fbc/SAuygkoTK9psWYLsDni6\n/TqucyfxOff7d5MIN+cop2H8bo4y7et9IXsA6autc+BHldH6a+iXnBBEnQYduE3P\nvfMy33P2Bs5So/QZXs0pwYxqievc2vGcuAlh6UuYW8MC9qLgXtPr1q9apsmhvj/v\nUTxg1YaZAgMBAAECggEAE8/HaLGMhZtlGof9lZjsykD9RAczNn3DQR12E7ceAX5K\n6+Yg7Na1cIsYxjKIkh1l9b0DWKEkYzFexhlfODh1kRvgAridA42EChglbp/O+S58\nf66kop+J13qSiWd8x4jtpC8UO1XlTayifV8qUlX27TqNZvUEg6UqsTxicnJLLP6b\n4EVL85xRA8LDejDCcwjXXD45DlTYrnsRZzraRhmlEeaTPyMEuv4YYgyzI+SBWRO2\nJ+k12I6r5q9jWg5IByd/jZwfRf1Yd9ohiDtd5wF1RJbH1uJSKb8pE9H0SZLpu1yM\nClWlt3SNKPnQyMq1JL+uxnUnBciO6x20ZqS/shlO0QKBgQDuu74kVmVXSpJCrgxc\n4nJSNMYMbJWby7i1F6n4ELm2QahRfACETrna9WSCVrLFCK11pguDcX6itfOWFA24\nyDH0WhKaRPjP7xOEah5m5QFmZirf+CI2ipt1L+Bn3Nbr19J+Q9Z/0R3fEo2dacHD\nyTYno9TilLXdSrUkNDqqVBzgcQKBgQC4XX3UnIR46kuWD5q0gq/Uk8D4Q8/iua5I\nRi8EmYg77vJJbPXDZY1ObfIh/z893y9azCUu4wZbV3etpCs3iJu4RzEzYi+HaO8F\nSt0Op2P7e9lBZ4f/WDeggN0Z1ywmA+V7pMqJBiOhDEzCP/09ydZT3BwBH6stjAlZ\najnPQUkcqQKBgD3eObCBE1JD6ROOt3V62dWkB49AtKTjbsK/lzTKYNZyvYQgdqHT\nJScxYRLGFR4q2YkbtvAhgYf5T18dY1D30LpafWetaC2673vpZGeWAX7gC0xvqa4o\nzZDZD3bbLHeCPvKp8fS95NfinwCkX6q1gmtTceAmWds3eSogvvNVSQaBAoGAN31E\nGxLEuFPkThUCPiQ7YaLa6J4YWqgCMZSWIC9JlqhTWhAmZBoTjrB+uQbG9QtQiGZ7\nJoKD7kgEKEoKC9vc6nja8RkzLvFBR3mB0SBGcnGTMSFFCHB3xaIjadyeWA7CKhWu\nM9GaNaWrEKgLw2YVUQYlk50Be2LziWr0XVHL/IkCgYEAqscvxHcpMc8O8qF11tZ7\n2QhK/UVXrBRO7Uh+z13hi0xKGwgZ58M0KBUZW8Q8rxOWaLH20bv/HjDxRE7uTp3U\nqGkdOSuCxfeTvLyg/TYLO1DQcTCdHVaJU0OciscfEKmkUBMEqbT3eiydLhyxdzrX\n4ZvhTNP0wn5atrEA2VuoEJo=\n-----END PRIVATE KEY-----\n",
+  "client_email": "brian-tomasco@gleaming-motif-202818.iam.gserviceaccount.com",
+  "client_id": "117547451202400719529",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/brian-tomasco%40gleaming-motif-202818.iam.gserviceaccount.com"
+}
